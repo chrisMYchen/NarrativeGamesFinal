@@ -1,0 +1,6 @@
+Room,TL,TR,RT,RB,BR,BL,LB,LT
+room0.txt,room3.txt,room1.txt,room4.txt,room2.txt,none,none,none,none
+room1.txt,none,none,none,room0.txt,none,none,none,none
+room2.txt,none,room0.txt,none,none,none,none,none,none
+room3.txt,none,none,room0.txt,none,none,none,none,none
+room4.txt,room0.txt,none,none,none,none,none,none,none
